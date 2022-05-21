@@ -1,6 +1,8 @@
 # my_shopping_app
 UWC Computer Science IA project
+
 A program that let the students enter and make a list of the products which they want to order from Pune. The students will make a list via the user interface by adding /choosing the items they want to order. To create the list, I used the Database to make it easier to access all products in which the students are ordered. I created the code for the program with the Java programming language and MySQL for database management.
+
 Notable features:
   - Login page with an email and password
   - Email varification of the new user
